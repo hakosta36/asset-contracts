@@ -1,0 +1,72 @@
+[
+  {
+    "id": "gold",
+    "name": "Gold",
+    "symbol": "rGOLD",
+    "category": "Commodity",
+    "localPrice": "2400"
+  },
+  {
+    "id": "silver",
+    "name": "Silver",
+    "symbol": "rSILVER",
+    "category": "Commodity",
+    "localPrice": "30"
+  },
+  {
+    "id": "aapl",
+    "name": "AAPL reference",
+    "symbol": "rAAPL",
+    "category": "Equity",
+    "localPrice": "200"
+  },
+  {
+    "id": "msft",
+    "name": "MSFT reference",
+    "symbol": "rMSFT",
+    "category": "Equity",
+    "localPrice": "400"
+  },
+  {
+    "id": "nvda",
+    "name": "NVDA reference",
+    "symbol": "rNVDA",
+    "category": "Equity",
+    "localPrice": "120"
+  },
+  {
+    "id": "googl",
+    "name": "GOOGL reference",
+    "symbol": "rGOOGL",
+    "category": "Equity",
+    "localPrice": "180"
+  },
+  {
+    "id": "amzn",
+    "name": "AMZN reference",
+    "symbol": "rAMZN",
+    "category": "Equity",
+    "localPrice": "190"
+  },
+  {
+    "id": "meta",
+    "name": "META reference",
+    "symbol": "rMETA",
+    "category": "Equity",
+    "localPrice": "500"
+  },
+  {
+    "id": "tsla",
+    "name": "TSLA reference",
+    "symbol": "rTSLA",
+    "category": "Equity",
+    "localPrice": "250"
+  },
+  {
+    "id": "nflx",
+    "name": "NFLX reference",
+    "symbol": "rNFLX",
+    "category": "Equity",
+    "localPrice": "700"
+  }
+]
